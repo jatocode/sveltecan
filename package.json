@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "sirv-cli": "^0.4.4",
     "socketcan": "^2.7.1"
   }
